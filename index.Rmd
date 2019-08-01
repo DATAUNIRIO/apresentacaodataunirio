@@ -1,0 +1,212 @@
+---
+title: "ORÇAMENTO POPULAR: TRANSPARÊNCIA, ENGAJAMENTO E TECNOLOGIA"
+subtitle: "X Congreso Internacional de Ciencia Política <br> Asociación Latinoamericana de Ciencia Política (ALACIP)"  
+author: "Steven Ross"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE}
+library(xaringanthemer)
+solarized_dark(
+  code_font_family = "Fira Code",
+  code_font_url    = "https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css"
+)
+```
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide1.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide2.PNG)
+background-position: 50% 50%
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide3.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide4.PNG)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide5.PNG)
+background-position: 50% 50%
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide6.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide7.PNG)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide8.PNG)
+background-position: 50% 50%
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide9.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide10.PNG)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide11.PNG)
+background-position: 50% 50%
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide12.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide13.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide14.PNG)
+background-position: 50% 50%
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide15.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide16.PNG)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide17.PNG)
+background-position: 50% 50%
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide18.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide19.PNG)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide20.PNG)
+background-position: 50% 50%
+background-size: contain
+
+
+[Acesso](https://duttross.shinyapps.io/transparencia1/)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide21.PNG)
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/transparencia1/)
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide22.PNG)
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/transparencia1/)
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide23.PNG)
+background-position: 50% 50%
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/transparencia1/)
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide24.PNG)
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/transparencia1/)
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide25.PNG)
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/transparencia1/)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide26.PNG)
+background-position: 50% 50%
+background-size: contain
+
+
+[Acesso](https://duttross.shinyapps.io/Engajamento/)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide27.PNG)
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/Engajamento/)
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide28.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide29.PNG)
+background-position: 50% 50%
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide30.PNG)
+background-size: contain
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide31.PNG)
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/orcamentopopularUFF/)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide32.PNG)
+background-size: contain
+
+[Acesso](https://duttross.shinyapps.io/orcamentopopularUFF/)
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide33.PNG)
+background-position: 50% 50%
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/apresentacaodataunirio/master/Slide35.PNG)
+background-size: contain
+
+
+
